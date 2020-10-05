@@ -1,0 +1,27 @@
+.footerchamp{
+    bottom: 0;
+    margin-bottom: 0;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.container-padding{
+    padding: 10px 45px 10px 45px !important;
+}
+
+.logo{
+    width: 50px;
+    margin-top: 7px;
+}
+
+
+.footer-transparent{
+    background-color: transparent !important;
+}
+
+.footer-fix-bottom{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
